@@ -1,2 +1,3 @@
 # Mark_prediction
-This is my first git repo
+This is my first git repo.
+Author - Nehal Khan
